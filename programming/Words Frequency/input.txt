@@ -1,0 +1,12 @@
+Robots.txt is a text (not html) file you put on your site to tell search robots
+which pages you would like them not to visit.
+Robots.txt is by no means mandatory for search engines but generally search
+engines obey what they are asked not to do.
+It is important to clarify that robots.txt is not a way from preventing search 
+engines from crawling your site
+(i.e. it is not a firewall, or a kind of password protection) and the fact that
+you put a robots.txt file is something like putting a note â€œPlease, do not enterâ€
+on an unlocked door â€“ e.g. you cannot prevent thieves from coming in but the good
+guys will not open to door and enter.
+That is why we say that if you have really sensitive data, it is too naÃ¯ve to rely
+on robots.txt to protect it from being indexed and displayed in search results.
